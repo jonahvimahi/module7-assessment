@@ -1,0 +1,26 @@
+tinyArray = 10
+smallArray = 100
+mediumArray = 1000
+largeArray = 10000
+extraLargeArray = 100000
+
+
+Extra large array:
+    insert 1.087590333 s
+    append 8.009125 ms
+
+Large array:
+    insert 9.490375 ms
+    append 688.666 μs
+
+Medium array:
+    insert 204.709 μs
+    append 134 μs
+
+Small array:
+    insert 46.042 μs
+    append 87.042 μs
+
+Tiny array:
+    insert 35.459 μs
+    append 86.292 μs
