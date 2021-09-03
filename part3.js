@@ -12,4 +12,6 @@ function pangram(s) {
 }
 // pangram("The quick brown fox jumps over the lazy dog")
 
-pangram("I like cats but not mice")
+// pangram("I like cats but not mice")
+
+// This function is O(n), linear
